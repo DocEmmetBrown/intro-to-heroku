@@ -30,7 +30,7 @@
     "body-parser": "1.9.2",
     "pg": "4.5.5",
     "del": "2.2.0",
-    "gulp": "3.9.1",
+    "gulp": "4.0.2",
     "gulp-watch": "4.3.5",
     "ionic-gulp-browserify-es2015": "1.1.0",
     "ionic-gulp-fonts-copy": "1.0.0",
