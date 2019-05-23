@@ -31,7 +31,7 @@
     "pg": "4.5.5",
     "del": "2.2.0",
     "gulp": "3.9.1",
-    "gulp-watch": "4.3.5",
+    "gulp-watch": "5.0.1",
     "ionic-gulp-browserify-es2015": "1.1.0",
     "ionic-gulp-fonts-copy": "1.0.0",
     "ionic-gulp-html-copy": "1.0.0",
